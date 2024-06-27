@@ -32,6 +32,7 @@ void bubble(int arr[], int n)
         }
     }
 }
+//here is the multiple approaches to solve problem..
 
 int main()
 {
